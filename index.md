@@ -1,4 +1,4 @@
-# Jabberwocky Terminology Wall of Shame:
+# Jabberwocky Terminology Wall of Shame
 
 This page contains examples of open source projects that use *Jabberwocky
 Terminology*.
@@ -7,10 +7,10 @@ To read more about what that means, view my [original blog post][splootysplotty]
 on the subject.
 
 I'd love if you sent a pull request with more examples of *Jabberwocky
-Terminology!*
+Terminology!* Go to [the repository on GitHub][repo], fork it, and send a pull
+request!
 
-To contribute, go to [the repository on GitHub][repo], fork it, and send a pull
-request. More help on [GitHub's forking guide][fork].
+## Examples
 
 - [Apache Storm](http://storm.apache.org/):
   - Bolt, Spouts
